@@ -15,10 +15,10 @@ tags: workthrough, math, functional-programming, lambda-calculus
 
 ----
 
-- **[Chapter 1: Introduction](/notes/lcbb/01.html)**
-- **[Chapter 2: Conversion](/notes/lcbb/02.html)**
-- **[Chapter 3: The Power of Lambda](/notes/lcbb/03.html)**
-- [Chapter 4: Reduction](/notes/lcbb/04.html)
+- **[Chapter 1: Introduction](/projects/lcbb/01)**
+- **[Chapter 2: Conversion](/projects/lcbb/02)**
+- **[Chapter 3: The Power of Lambda](/projects/lcbb/03)**
+- [Chapter 4: Reduction](/projects/lcbb/04)
 - Chapter 5: Type Assignment
 - Chapter 6: Extensions
 - Chapter 7: Reduction Systems
